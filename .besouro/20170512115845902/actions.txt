@@ -26,3 +26,8 @@ EditAction 1494583873357 TestBowling.java 385 2 4 2
 UnitTestCaseAction 1494583878690 TestBowling.java OK
 UnitTestSessionAction 1494583878692 TestBowling.java OK
 EditAction 1494583984731 Frame.java 867 6 8 0
+RefactoringAction 1494584001578 TestBowling.java ADD void test FIELD
+RefactoringAction 1494584008606 TestBowling.java RENAME test=>void testIs FIELD
+RefactoringAction 1494584010127 TestBowling.java RENAME testIs=>void testIsSpa FIELD
+RefactoringAction 1494584012140 TestBowling.java RENAME testIsSpa=>void testIsSpare() METHOD
+EditAction 1494584057847 TestBowling.java 492 3 6 3
