@@ -19,3 +19,7 @@ EditAction 1494583667702 TestBowling.java 276 1 2 1
 UnitTestCaseAction 1494583671625 TestBowling.java OK
 UnitTestSessionAction 1494583671627 TestBowling.java OK
 EditAction 1494583743732 Frame.java 769 6 8 0
+RefactoringAction 1494583765592 TestBowling.java ADD void test FIELD
+RefactoringAction 1494583775135 TestBowling.java RENAME test=>void testIsStrike FIELD
+RefactoringAction 1494583776153 TestBowling.java RENAME testIsStrike=>void testIsStrike() METHOD
+EditAction 1494583873357 TestBowling.java 385 2 4 2

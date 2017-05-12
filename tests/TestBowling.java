@@ -13,5 +13,10 @@ public class TestBowling {
 		Frame frame = new Frame(5,4);
 		assertEquals(9, frame.score());
 	}
+	@Test
+	public void testIsStrike(){
+		Frame frame = new Frame(10,1);
+		assertTrue(frame.isStrike());
+	}
 
 }
