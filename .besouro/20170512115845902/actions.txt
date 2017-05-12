@@ -31,3 +31,10 @@ RefactoringAction 1494584008606 TestBowling.java RENAME test=>void testIs FIELD
 RefactoringAction 1494584010127 TestBowling.java RENAME testIs=>void testIsSpa FIELD
 RefactoringAction 1494584012140 TestBowling.java RENAME testIsSpa=>void testIsSpare() METHOD
 EditAction 1494584057847 TestBowling.java 492 3 6 3
+UnitTestCaseAction 1494584063653 TestBowling.java OK
+UnitTestSessionAction 1494584063654 TestBowling.java OK
+RefactoringAction 1494586300245 TestBowling.java ADD void test FIELD
+RefactoringAction 1494586319261 TestBowling.java RENAME test=>void testsetBonus FIELD
+RefactoringAction 1494586321780 TestBowling.java RENAME testsetBonus=>void testSetBonus FIELD
+RefactoringAction 1494586972873 TestBowling.java REMOVE testSetBonus() METHOD
+EditAction 1494587030815 TestBowling.java 669 3 6 3

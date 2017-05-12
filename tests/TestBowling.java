@@ -24,4 +24,12 @@ public class TestBowling {
 		assertTrue(frame.isSpare());
 	}
 
+	/*@Test
+	public void testSetBonus(){
+		Frame frame = new Frame (5,5);
+		Frame frame1 = new Frame (1,5);
+		addFrame(frame);
+		addFrame(frame1)
+		assertEquals(17, )
+	}*/
 }
