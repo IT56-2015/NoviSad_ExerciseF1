@@ -38,3 +38,4 @@ RefactoringAction 1494586319261 TestBowling.java RENAME test=>void testsetBonus 
 RefactoringAction 1494586321780 TestBowling.java RENAME testsetBonus=>void testSetBonus FIELD
 RefactoringAction 1494586972873 TestBowling.java REMOVE testSetBonus() METHOD
 EditAction 1494587030815 TestBowling.java 669 3 6 3
+EditAction 1494587034278 BowlingGame.java 1460 4 5 0
