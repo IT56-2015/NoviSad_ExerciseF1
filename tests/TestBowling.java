@@ -4,10 +4,10 @@ import org.junit.Test;
 
 public class TestBowling {
 
-	@Test
+	/*@Test
 	public void test() {
 		fail("Not yet implemented");
-	}
+	}*/
 	@Test
 	public void testScore(){
 		Frame frame = new Frame(5,4);
