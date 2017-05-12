@@ -8,5 +8,10 @@ public class TestBowling {
 	public void test() {
 		fail("Not yet implemented");
 	}
+	@Test
+	public void testScore(){
+		Frame frame = new Frame(5,4);
+		assertEquals(9, frame.score());
+	}
 
 }

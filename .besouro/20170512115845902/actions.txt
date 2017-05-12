@@ -6,3 +6,4 @@ RefactoringAction 1494583407720 TestBowling.java ADD void test FIELD
 RefactoringAction 1494583409767 TestBowling.java RENAME test=>void testScore FIELD
 RefactoringAction 1494583411424 TestBowling.java RENAME testScore=>void testScore() METHOD
 EditAction 1494583534322 Frame.java 694 6 7 0
+EditAction 1494583539541 TestBowling.java 272 2 3 1
